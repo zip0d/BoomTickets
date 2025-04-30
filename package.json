@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "crawlee": "^3.13.1",
+    "express": "^5.1.0",
+    "puppeteer": "^24.6.1"
+  }
+}
